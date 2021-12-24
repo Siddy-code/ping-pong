@@ -1,0 +1,29 @@
+.heading{
+width: 100%;
+text-align: left;
+}
+.heading h3{
+display:inline;
+
+}
+.heading button{
+float: right;
+border: 2px solid whitesmoke;
+}
+#start,#status,#restart{
+font-size: 22px;
+}
+.modal-body{
+text-align: left;
+font-size: 20px;
+}
+h4{
+background-color: grey;
+color:honeydew;
+line-height: 2;
+}
+canvas{
+border: 3px solid cornflowerblue;
+border-radius: 20px;
+box-shadow: 5px 5px 5px whitesmoke;
+}
